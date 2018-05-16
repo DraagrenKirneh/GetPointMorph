@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "HenrikNergaard 5/16/2018 23:56",
+	"super" : "BaselineOf",
+	"category" : "BaselineOfGetPointMorph",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BaselineOfGetPointMorph",
+	"type" : "normal"
+}
