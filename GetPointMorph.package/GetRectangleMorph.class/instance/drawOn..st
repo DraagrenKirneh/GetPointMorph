@@ -14,6 +14,6 @@ drawOn: aCanvas
 	].
 
 	self 
-		drawLineMarkersAt: point on: aCanvas;
+		drawLineMarkersAt: point  on: aCanvas;
 		drawLineMarkersAt: origin on: aCanvas
 		

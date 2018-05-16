@@ -1,10 +1,13 @@
 events-processing
 intoWorld: aWorld
-
-	aWorld activeHand showTemporaryCursor: Cursor blank.
 	
-	point := aWorld activeHand cursorPoint.
+	aWorld 
+		ifNil: [ point := owner position ]
+		ifNotNil: [ 		
+			aWorld activeHand showTemporaryCursor: Cursor blank.	
+			point := aWorld activeHand cursorPoint.
+		].
 	
-	self 
+	"self 
 		bounds: owner bounds; 
-		forceChanged.
+		forceChanged."

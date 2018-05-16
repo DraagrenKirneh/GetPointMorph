@@ -1,4 +1,4 @@
-as yet unclassified
+special instance creation
 usingCallback: aBlock
 
 	^ self new
