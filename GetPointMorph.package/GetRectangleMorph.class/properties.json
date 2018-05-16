@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "HenrikNergaard 1/10/2017 00:11",
+	"super" : "GetPointMorph",
+	"category" : "GetPointMorph",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"origin"
+	],
+	"name" : "GetRectangleMorph",
+	"type" : "normal"
+}

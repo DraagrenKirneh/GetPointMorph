@@ -1,0 +1,23 @@
+{
+	"instance" : {
+		"handlesMouseMove:" : "hn 1/8/2017 20:03",
+		"forceChanged" : "hn 1/8/2017 20:32",
+		"morphicLayerNumber" : "hn 1/8/2017 20:01",
+		"defaultLineColor" : "hn 1/8/2017 19:58",
+		"outOfWorld:" : "hn 1/8/2017 20:20",
+		"drawLineMarkersAt:on:" : "HenrikNergaard 1/10/2017 00:03",
+		"drawOn:" : "HenrikNergaard 1/10/2017 00:03",
+		"handlesMouseDown:" : "hn 1/8/2017 20:11",
+		"callback:" : "hn 1/8/2017 20:14",
+		"initialize" : "hn 1/8/2017 20:27",
+		"changed" : "hn 1/8/2017 20:27",
+		"mouseMove:" : "hn 1/8/2017 20:05",
+		"intoWorld:" : "HenrikNergaard 1/8/2017 20:51",
+		"defaultColor" : "hn 1/8/2017 19:58",
+		"mouseDown:" : "hn 1/8/2017 20:13"
+	},
+	"class" : {
+		"usingCallback:" : "hn 1/8/2017 20:16",
+		"example" : "HenrikNergaard 1/10/2017 00:10"
+	}
+}
