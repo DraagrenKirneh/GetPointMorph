@@ -1,7 +1,7 @@
 
 # GetPointMorph
 
-This package adds two interaction morphs for getting a user selected point or rectange.
+This package implements two Morph classes which can be used to ask the user to select either a point or rectangle inside a Morph.
 
 ![Selecting a rectangle](rectangle-selection.png)
 
